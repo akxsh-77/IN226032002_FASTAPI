@@ -17,9 +17,6 @@ Implemented all 20 project tasks ranging from Beginner to Advanced:
 * **Validation:** Pydantic
 * **Documentation:** Swagger UI (OpenAPI)
 
-## 📸 Screenshots
-All 20 endpoints were tested in Swagger UI. You can find the visual proof in the `screenshots/` folder.
-
 ## ⚙️ How to Run
 1. Clone the repository.
 2. Install dependencies: `pip install -r requirements.txt`.
